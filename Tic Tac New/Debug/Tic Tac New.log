@@ -1,0 +1,5 @@
+﻿  New 10-26-2019.cpp
+d:\personal data\university files\semester 3\oop\programs\tic tac new\tic tac new\new 10-26-2019.cpp(169): warning C4715: 'ticTacToe::windraw1': not all control paths return a value
+d:\personal data\university files\semester 3\oop\programs\tic tac new\tic tac new\new 10-26-2019.cpp(105): warning C4715: 'ticTacToe::setter': not all control paths return a value
+d:\personal data\university files\semester 3\oop\programs\tic tac new\tic tac new\new 10-26-2019.cpp(189): warning C4715: 'ticTacToe::windraw': not all control paths return a value
+  Tic Tac New.vcxproj -> D:\Personal Data\University Files\Semester 3\OOP\Programs\Tic Tac New\Debug\Tic Tac New.exe
